@@ -14,25 +14,45 @@ Variable                                                 Description
 [6] "TimeBodyAccelerometerSTD()-X"                     -mean of tBodyAcc-std()-X
 
 [7] "TimeBodyAccelerometerSTD()-Y"                     -mean of tBodyAcc-std()-Y
+
 [8] "TimeBodyAccelerometerSTD()-Z"                     -mean of tBodyAcc-std()-Z
+
 [9] "TimeGravityAccelerometerMean()-X"                 -mean of tGravityAcc-mean()-X
+
 [10] "TimeGravityAccelerometerMean()-Y"                 -mean of tGravityAcc-mean()-Y
+
 [11] "TimeGravityAccelerometerMean()-Z"                 -mean of tGravityAcc-mean()-Z
+
 [12] "TimeGravityAccelerometerSTD()-X"                  -mean of tGravityAcc-std()-X
+
 [13] "TimeGravityAccelerometerSTD()-Y"                  -mean of tGravityAcc-std()-Y
+
 [14] "TimeGravityAccelerometerSTD()-Z"                  -mean of tGravityAcc-std()-Z
+
 [15] "TimeBodyAccelerometerJerkMean()-X"                -mean of tBodyAccJerk-mean()-X
+
 [16] "TimeBodyAccelerometerJerkMean()-Y"                -mean of tBodyAccJerk-mean()-Y
+
 [17] "TimeBodyAccelerometerJerkMean()-Z"                -mean of tBodyAccJerk-mean()-Z
+
 [18] "TimeBodyAccelerometerJerkSTD()-X"                 -mean of tBodyAccJerk-std()-X
+
 [19] "TimeBodyAccelerometerJerkSTD()-Y"                 -mean of tBodyAccJerk-std()-Y
+
 [20] "TimeBodyAccelerometerJerkSTD()-Z"                 -mean of tBodyAccJerk-std()-Z
+
 [21] "TimeBodyGyroscopeMean()-X"                        -mean of tBodyGyro-mean()-X
+
 [22] "TimeBodyGyroscopeMean()-Y"                        -mean of tBodyGyro-mean()-Y
+
 [23] "TimeBodyGyroscopeMean()-Z"                        -mean of tBodyGyro-mean()-Z
+
 [24] "TimeBodyGyroscopeSTD()-X"                         -mean of tBodyGyro-std()-X
+
 [25] "TimeBodyGyroscopeSTD()-Y"                         -mean of tBodyGyro-std()-Y
+
 [26] "TimeBodyGyroscopeSTD()-Z"                         -mean of tBodyGyro-std()-Z
+
 [27] "TimeBodyGyroscopeJerkMean()-X"                    -mean of tBodyGyroJerk-mean()-X
 [28] "TimeBodyGyroscopeJerkMean()-Y"                    -mean of tBodyGyroJerk-mean()-Y
 [29] "TimeBodyGyroscopeJerkMean()-Z"                    -mean of tBodyGyroJerk-mean()-Z
