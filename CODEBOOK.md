@@ -54,67 +54,130 @@ Variable                                                 Description
 [26] "TimeBodyGyroscopeSTD()-Z"                         -mean of tBodyGyro-std()-Z
 
 [27] "TimeBodyGyroscopeJerkMean()-X"                    -mean of tBodyGyroJerk-mean()-X
+
 [28] "TimeBodyGyroscopeJerkMean()-Y"                    -mean of tBodyGyroJerk-mean()-Y
+
 [29] "TimeBodyGyroscopeJerkMean()-Z"                    -mean of tBodyGyroJerk-mean()-Z
+
 [30] "TimeBodyGyroscopeJerkSTD()-X"                     -mean of tBodyGyroJerk-std()-X
+
 [31] "TimeBodyGyroscopeJerkSTD()-Y"                     -mean of tBodyGyroJerk-std()-Y
+
 [32] "TimeBodyGyroscopeJerkSTD()-Z"                     -mean of tBodyGyroJerk-std()-Z
+
 [33] "TimeBodyAccelerometerMagnitudeMean()"             -mean of tBodyAccMag-mean()
+
 [34] "TimeBodyAccelerometerMagnitudeSTD()"              -mean of tBodyAccMag-std()
+
 [35] "TimeGravityAccelerometerMagnitudeMean()"          -mean of tGravityAccMag-mean()
+
 [36] "TimeGravityAccelerometerMagnitudeSTD()"           -mean of tGravityAccMag-std()
+
 [37] "TimeBodyAccelerometerJerkMagnitudeMean()"         -mean of tBodyAccJerkMag-mean()
+
 [38] "TimeBodyAccelerometerJerkMagnitudeSTD()"          -mean of tBodyAccJerkMag-std()
+
 [39] "TimeBodyGyroscopeMagnitudeMean()"                 -mean of tBodyGyroMag-mean()
+
 [40] "TimeBodyGyroscopeMagnitudeSTD()"                  -mean of tBodyGyroMag-std()
+
 [41] "TimeBodyGyroscopeJerkMagnitudeMean()"             -mean of tBodyGyroJerkMag-mean()
+
 [42] "TimeBodyGyroscopeJerkMagnitudeSTD()"              -mean of tBodyGyroJerkMag-std()
+
 [43] "FrequencyBodyAccelerometerMean()-X"               -mean of fBodyAcc-mean()-X
+
 [44] "FrequencyBodyAccelerometerMean()-Y"               -mean of fBodyAcc-mean()-Y
+
 [45] "FrequencyBodyAccelerometerMean()-Z"               -mean of fBodyAcc-mean()-Z
+
 [46] "FrequencyBodyAccelerometerSTD()-X"                -mean of fBodyAcc-std()-X
+
 [47] "FrequencyBodyAccelerometerSTD()-Y"                -mean of fBodyAcc-std()-Y
+
 [48] "FrequencyBodyAccelerometerSTD()-Z"                -mean of fBodyAcc-std()-Z
+
 [49] "FrequencyBodyAccelerometerMeanFreq()-X"           -mean of mean fBodyAcc-std()-X
+
 [50] "FrequencyBodyAccelerometerMeanFreq()-Y"           -mean of mean fBodyAcc-std()-Y
+
 [51] "FrequencyBodyAccelerometerMeanFreq()-Z"           -mean of mean fBodyAcc-std()-Z
+
 [52] "FrequencyBodyAccelerometerJerkMean()-X"           -mean of fBodyAccJerk-mean()-X
+
 [53] "FrequencyBodyAccelerometerJerkMean()-Y"           -mean of fBodyAccJerk-mean()-Y
+
 [54] "FrequencyBodyAccelerometerJerkMean()-Z"           -mean of fBodyAccJerk-mean()-Z
+
 [55] "FrequencyBodyAccelerometerJerkSTD()-X"            -mean of fBodyAccJerk-std()-X
+
 [56] "FrequencyBodyAccelerometerJerkSTD()-Y"            -mean of fBodyAccJerk-std()-Y
+
 [57] "FrequencyBodyAccelerometerJerkSTD()-Z"            -mean of fBodyAccJerk-std()-Z
+
 [58] "FrequencyBodyAccelerometerJerkMeanFreq()-X"       -mean of mean fBodyAccJerk-std()-X
+
 [59] "FrequencyBodyAccelerometerJerkMeanFreq()-Y"       -mean of mean fBodyAccJerk-std()-Y
+
 [60] "FrequencyBodyAccelerometerJerkMeanFreq()-Z"       -mean of mean fBodyAccJerk-std()-Z
+
+
 [61] "FrequencyBodyGyroscopeMean()-X"                   -mean of fBodyGyro-mean()-X
+
 [62] "FrequencyBodyGyroscopeMean()-Y"                   -mean of fBodyGyro-mean()-Y
+
 [63] "FrequencyBodyGyroscopeMean()-Z"                   -mean of fBodyGyro-mean()-Z
+
 [64] "FrequencyBodyGyroscopeSTD()-X"                    -mean of fBodyGyro-std()-X
+
 [65] "FrequencyBodyGyroscopeSTD()-Y"                    -mean of fBodyGyro-std()-Y
+
 [66] "FrequencyBodyGyroscopeSTD()-Z"                    -mean of fBodyGyro-std()-Z
+
 [67] "FrequencyBodyGyroscopeMeanFreq()-X"               -mean of mean fBodyGyro-std()-X
+
 [68] "FrequencyBodyGyroscopeMeanFreq()-Y"               -mean of mean fBodyGyro-std()-Y
+
 [69] "FrequencyBodyGyroscopeMeanFreq()-Z"               -mean of mean fBodyGyro-std()-Z
+
 [70] "FrequencyBodyAccelerometerMagnitudeMean()"        -mean of fBodyAccMag-mean()
+
 [71] "FrequencyBodyAccelerometerMagnitudeSTD()"         -mean of fBodyAccMag-std()
+
 [72] "FrequencyBodyAccelerometerMagnitudeMeanFreq()"    -mean of fBodyBodyAccJerkMag-mean()
+
 [73] "FrequencyBodyAccelerometerJerkMagnitudeMean()"    -mean of mean fBodyBodyAccJerkMag-mean()
+
 [74] "FrequencyBodyAccelerometerJerkMagnitudeSTD()"     -mean of fBodyBodyAccJerkMag-std()
+
 [75] "FrequencyBodyAccelerometerJerkMagnitudeMeanFreq()"-mean of mean fBodyBodyAccJerkMag-std()
+
 [76] "FrequencyBodyGyroscopeMagnitudeMean()"            -mean of fBodyBodyGyroMag-mean()
+
 [77] "FrequencyBodyGyroscopeMagnitudeSTD()"             -mean of fBodyBodyGyroMag-std()
+
 [78] "FrequencyBodyGyroscopeMagnitudeMeanFreq()"        -mean of mean fBodyBodyGyroMag-std()
+
 [79] "FrequencyBodyGyroscopeJerkMagnitudeMean()"        -mean of fBodyBodyGyroJerkMag-mean()
+
 [80] "FrequencyBodyGyroscopeJerkMagnitudeSTD()"         -mean of fBodyBodyGyroJerkMag-std()
+
 [81] "FrequencyBodyGyroscopeJerkMagnitudeMeanFreq()"    -
+
 [82] "Angle(TimeBodyAccelerometerMean,Gravity)"         -
+
 [83] "Angle(TimeBodyAccelerometerJerkMean),GravityMean)"-
+
 [84] "Angle(TimeBodyGyroscopeMean,GravityMean)"         -
+
 [85] "Angle(TimeBodyGyroscopeJerkMean,GravityMean)"     -
+
 [86] "Angle(X,GravityMean)"                             -
+
 [87] "Angle(Y,GravityMean)"                             -
+
 [88] "Angle(Z,GravityMean)" -
+
 
 
 
