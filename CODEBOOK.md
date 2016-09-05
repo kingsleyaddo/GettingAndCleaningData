@@ -1,13 +1,21 @@
 Variable                                                 Description
+
+
 [1] "Subject"                                          -subject identifier of volunteer
- [2] "Activity"                                         -name ofactivity subject performed (LAYING,SITTING,STANDING,WALKING,WALKING_DOWNSTAIRS,WALKING_UPSTAIRS)
- [3] "TimeBodyAccelerometerMean()-X"                    -mean of tBodyAcc-mean()-X
- [4] "TimeBodyAccelerometerMean()-Y"                    -mean of tBodyAcc-mean()-Y
- [5] "TimeBodyAccelerometerMean()-Z"                    -mean of tBodyAcc-mean()-Z
- [6] "TimeBodyAccelerometerSTD()-X"                     -mean of tBodyAcc-std()-X
- [7] "TimeBodyAccelerometerSTD()-Y"                     -mean of tBodyAcc-std()-Y
- [8] "TimeBodyAccelerometerSTD()-Z"                     -mean of tBodyAcc-std()-Z
- [9] "TimeGravityAccelerometerMean()-X"                 -mean of tGravityAcc-mean()-X
+
+[2] "Activity"                                         -name ofactivity subject performed
+(LAYING,SITTING,STANDING,WALKING,WALKING_DOWNSTAIRS,WALKING_UPSTAIRS)
+[3] "TimeBodyAccelerometerMean()-X"                    -mean of tBodyAcc-mean()-X
+
+[4] "TimeBodyAccelerometerMean()-Y"                    -mean of tBodyAcc-mean()-Y
+
+[5] "TimeBodyAccelerometerMean()-Z"                    -mean of tBodyAcc-mean()-Z
+
+[6] "TimeBodyAccelerometerSTD()-X"                     -mean of tBodyAcc-std()-X
+
+[7] "TimeBodyAccelerometerSTD()-Y"                     -mean of tBodyAcc-std()-Y
+[8] "TimeBodyAccelerometerSTD()-Z"                     -mean of tBodyAcc-std()-Z
+[9] "TimeGravityAccelerometerMean()-X"                 -mean of tGravityAcc-mean()-X
 [10] "TimeGravityAccelerometerMean()-Y"                 -mean of tGravityAcc-mean()-Y
 [11] "TimeGravityAccelerometerMean()-Z"                 -mean of tGravityAcc-mean()-Z
 [12] "TimeGravityAccelerometerSTD()-X"                  -mean of tGravityAcc-std()-X
